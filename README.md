@@ -24,7 +24,7 @@ This project involves the design and implementation of an **Analog Volume Expand
 - **Notch Filter**: Removes power line noise (50Hz).
 - **Power Supply**: Provides stable and isolated power to the system.
 
-For detailed system architecture and schematics, refer to the [Project Report](docs/Project_Report.pdf).
+
 ---
 
 ## 📸 Project Highlights
