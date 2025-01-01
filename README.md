@@ -45,3 +45,6 @@ This project involves the design and implementation of an **Analog Volume Expand
 ![Enclosure Design](images/screenshots/enclosure_design.jpg)
 
 ---
+![Solidworks](https://img.shields.io/badge/Solid_Works_-red)
+![Altium](https://img.shields.io/badge/Altium_Designer_-%23A5915F?logo=altiumdesigner&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-%230078D7?logo=analogdevices&logoColor=white)
