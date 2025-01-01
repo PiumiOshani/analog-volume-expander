@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Net+InBypass_2 Pin=J?-1
+Removed Pin From Net: NetName=vGND Pin=J?-2
+Change Component Footprint: Designator=J? Old Footprint=PJ-002AH_CUD New Footprint=TENSILITY_54-00167
+Change Component Comment : Designator=J? Old Comment=PJ-002AH New Comment=54-00167
+Change component parameters: Designator = "J?" ("J?"); Footprint = "PJ-002AH_CUD"; UniqueID = "\FKQQWXTL" ("\FKQQWXTL")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/54-00167/Tensility+International+Corp/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Tensility International Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "54-00167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=54-00167&ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/54-00167/Tensility+International+Corp/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net+InBypass_2 Pin=J?-A
+Added Pin To Net: NetName=vGND Pin=J?-B

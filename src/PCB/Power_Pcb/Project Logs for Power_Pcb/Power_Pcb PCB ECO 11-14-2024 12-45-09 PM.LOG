@@ -1,0 +1,99 @@
+Added Component: Designator=+dc(B_S-2WR2_MNS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "MORNSUN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DC DC Converters"; VariantName = "[No Variations]"
+Added Component: Designator=+InBypass(CONN_M20-99903XX_HRW)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=-dc(B_S-2WR2_MNS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "MORNSUN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DC DC Converters"; VariantName = "[No Variations]"
+Added Component: Designator=-InBypass(CONN_M20-99903XX_HRW)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=barrel(PJ-002AH_CUD)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_YX_6P3X11_RUB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_YX_6P3X11_RUB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_YX_6P3X11_RUB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_YX_6P3X11_RUB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Rubycon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JSTPowerIn(CONN_B2B-XH-A_JST)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=JSTPowerOut(CONN_B3B-XH-A_JST)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=reg3(TO255P1020X450X1968-3B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/L7810CV/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L7810CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L7810CV/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=reg4(TO255P1020X450X1968-3B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/L7810CV/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L7810CV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L7810CV/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-12 Pin=-dc-4
+Added Pin To Net: NetName=-12 Pin=C14-2
+Added Pin To Net: NetName=-12 Pin=JSTPowerOut-3
+Added Net: Name=-12
+Added Pin To Net: NetName=12out Pin=+dc-6
+Added Pin To Net: NetName=12out Pin=C12-1
+Added Pin To Net: NetName=12out Pin=JSTPowerOut-1
+Added Net: Name=12out
+Added Pin To Net: NetName=GND Pin=+dc-4
+Added Pin To Net: NetName=GND Pin=-dc-6
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=JSTPowerOut-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net+dc_1 Pin=+dc-1
+Added Pin To Net: NetName=Net+dc_1 Pin=+InBypass-2
+Added Pin To Net: NetName=Net+dc_1 Pin=C11-1
+Added Pin To Net: NetName=Net+dc_1 Pin=reg3-3
+Added Net: Name=Net+dc_1
+Added Pin To Net: NetName=Net+InBypass_3 Pin=+InBypass-3
+Added Pin To Net: NetName=Net+InBypass_3 Pin=-InBypass-3
+Added Pin To Net: NetName=Net+InBypass_3 Pin=barrel-1
+Added Pin To Net: NetName=Net+InBypass_3 Pin=JSTPowerIn-1
+Added Pin To Net: NetName=Net+InBypass_3 Pin=reg3-1
+Added Pin To Net: NetName=Net+InBypass_3 Pin=reg4-1
+Added Net: Name=Net+InBypass_3
+Added Pin To Net: NetName=Net-dc_1 Pin=-dc-1
+Added Pin To Net: NetName=Net-dc_1 Pin=-InBypass-2
+Added Pin To Net: NetName=Net-dc_1 Pin=C13-1
+Added Pin To Net: NetName=Net-dc_1 Pin=reg4-3
+Added Net: Name=Net-dc_1
+Added Pin To Net: NetName=vGND Pin=+dc-2
+Added Pin To Net: NetName=vGND Pin=-dc-2
+Added Pin To Net: NetName=vGND Pin=barrel-2
+Added Pin To Net: NetName=vGND Pin=C11-2
+Added Pin To Net: NetName=vGND Pin=C13-2
+Added Pin To Net: NetName=vGND Pin=JSTPowerIn-2
+Added Pin To Net: NetName=vGND Pin=reg3-2
+Added Pin To Net: NetName=vGND Pin=reg4-2
+Added Net: Name=vGND
+Added Class: Name=Power_Pcb

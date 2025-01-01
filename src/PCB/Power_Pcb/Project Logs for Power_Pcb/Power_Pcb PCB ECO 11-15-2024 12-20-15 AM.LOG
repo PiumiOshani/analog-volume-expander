@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Net+InBypass_2 Pin=+InBypass-2
+Removed Pin From Net: NetName=Net-InBypass_2 Pin=-InBypass-2
+Removed Pin From Net: NetName=vGND Pin=J?-2
+Removed Member From Class: ClassName=Power_Pcb Member=J?
+Add Component: Footprint Not Found CUI_PJ-002AH
+Added Pin To Net: NetName=Net+InBypass_2 Pin=+InBypass-3
+Added Pin To Net: NetName=Net-InBypass_2 Pin=-InBypass-3
+Add Pin To Net: Unknown Pin: Pin barrel-2
+Change Net Name : Old Net Name=Net+InBypass_2 New Net Name=Net+InBypass_3
+Change Net Name : Old Net Name=Net-InBypass_2 New Net Name=Net-InBypass_3
+Added Pin To Net: NetName=Net+InBypass_1 Pin=+InBypass-1
+Added Pin To Net: NetName=Net+InBypass_1 Pin=Reg+-1
+Added Net: Name=Net+InBypass_1
+Added Pin To Net: NetName=Net+InBypass_2 Pin=+InBypass-2
+Added Pin To Net: NetName=Net+InBypass_2 Pin=-InBypass-2
+Added Pin To Net: NetName=Net+InBypass_2 Pin=JSTPowerIn-1
+Added Net: Name=Net+InBypass_2
+Added Pin To Net: NetName=Net-InBypass_1 Pin=-InBypass-1
+Added Pin To Net: NetName=Net-InBypass_1 Pin=Reg--1
+Added Net: Name=Net-InBypass_1
+Add Class Member: Failed to add class member : Component barrel barrelconnector

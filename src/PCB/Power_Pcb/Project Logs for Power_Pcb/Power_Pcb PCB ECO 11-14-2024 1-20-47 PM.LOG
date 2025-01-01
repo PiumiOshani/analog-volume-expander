@@ -1,0 +1,9 @@
+Added Component: Designator=J?(PJ-002AH_CUD)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net+InBypass_3 Pin=J?-1
+Added Pin To Net: NetName=vGND Pin=J?-2
+Added Member To Class: ClassName=Power_Pcb Member=Component C2 capacitor
+Added Member To Class: ClassName=Power_Pcb Member=Component J? PJ-002AH
+Added Member To Class: ClassName=Power_Pcb Member=Component Reg- +10vregulator

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=vGND Pin=barrel-B
+Removed Pin From Net: NetName=vGND Pin=JSTPowerIn-2
+Added Component: Designator=Aud1(CUI_SJ1-3525N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SJ1-3525N/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/jacks/sj1-3525n?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SJ1-3525N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SJ1-3525N/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=audjst(CONN_M20-99903XX_HRW)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAud1_1 Pin=Aud1-1
+Added Pin To Net: NetName=NetAud1_1 Pin=audjst-1
+Added Net: Name=NetAud1_1
+Added Pin To Net: NetName=NetAud1_3 Pin=Aud1-3
+Added Pin To Net: NetName=NetAud1_3 Pin=audjst-2
+Added Net: Name=NetAud1_3
+Added Pin To Net: NetName=Netbarrel_B Pin=barrel-B
+Added Pin To Net: NetName=Netbarrel_B Pin=JSTPowerIn-2
+Added Net: Name=Netbarrel_B
+Added Member To Class: ClassName=Power_Pcb Member=Component Aud1 Audioport
+Added Member To Class: ClassName=Power_Pcb Member=Component audjst 3pinHeaders

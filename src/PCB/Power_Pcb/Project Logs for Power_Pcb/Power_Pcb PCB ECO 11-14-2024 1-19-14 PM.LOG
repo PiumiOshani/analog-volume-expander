@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=+dc? NewDesignator=DC+
+Change Component Designator: OldDesignator=+InBypass? NewDesignator=+InBypass
+Change Component Designator: OldDesignator=-dc? NewDesignator=DC-
+Change Component Designator: OldDesignator=-InBypass? NewDesignator=-InBypass
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=JSTPowerIn? NewDesignator=JSTPowerIn
+Change Component Designator: OldDesignator=JSTPowerOut? NewDesignator=JSTPowerOut
+Change Component Designator: OldDesignator=reg? NewDesignator=Reg+
+Change Component Designator: OldDesignator=reg? NewDesignator=Reg-
+Change Net Name : Old Net Name=Net+dc?_1 New Net Name=Net+InBypass_2
+Change Net Name : Old Net Name=Net+InBypass?_3 New Net Name=Net+InBypass_3
+Change Net Name : Old Net Name=Net-dc?_1 New Net Name=Net-InBypass_2
+Added Member To Class: ClassName=Power_Pcb Member=Component C1 capacitor
+Added Member To Class: ClassName=Power_Pcb Member=Component C3 capacitor
+Added Member To Class: ClassName=Power_Pcb Member=Component C4 capacitor
+Added Member To Class: ClassName=Power_Pcb Member=Component Reg+ +10vregulator
