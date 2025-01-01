@@ -42,6 +42,6 @@ This project involves the design and implementation of an **Analog Volume Expand
   - Printed using durable PLA+ material.
 - **Dimensions**: 154 mm × 116 mm × 70 mm.
 
-![Enclosure Design](images/screenshots/enclosure_design.png)
+![Enclosure Design](images/screenshots/enclosure_design.jpg)
 
 ---
