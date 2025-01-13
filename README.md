@@ -36,7 +36,7 @@ This project involves the design and implementation of an **Analog Volume Expand
   - Proper power-signal separation for reliability.
 
 
-<img src="images/screenshots/pcb_design.png" width="700" height="auto" />
+<img src="images/screenshots/pcb_design.png" width="800" height="auto" />
 
 ### Enclosure Design
 - **3D-printed enclosure**:
