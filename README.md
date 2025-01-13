@@ -57,6 +57,8 @@ This project involves the design and implementation of an **Analog Volume Expand
 </div>
 
  ## Group Members
+ | Name | Index Number |Email|
+|------|--------------|--------------|
  | Balasooriya B A P I | 220054N | balasooriyabapi.22@uom.lk
  | Dewasumithra M P O | 220112R |piumioshani@gmail.com|
  | Dineshara M C | 220128V |chandupadineshara@gmail.com|
