@@ -45,7 +45,7 @@ This project involves the design and implementation of an **Analog Volume Expand
 
 <div style="display: flex; justify-content: space-between;">
     <img src="images/screenshots/enclosure_design.jpg" alt="Image 1" width="40%" height="auto">
-    <img src="images/PIctures/Screenshot 2024-12-16 212225.png" alt="Image 2" width="55%" height="auto">
+    <img src="images/PIctures/Screenshot 2024-12-16 212225.png" alt="Image 2" width="50%" height="auto">
 </div>
 
 ---
