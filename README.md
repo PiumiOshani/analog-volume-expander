@@ -56,6 +56,11 @@ This project involves the design and implementation of an **Analog Volume Expand
     <img src="images/PIctures/WhatsApp Image 2024-12-16 at 21.27.18_a69d4df1.jpg" alt="Image 2" width="38%" height="auto">
 </div>
 
+ ## Group Members
+ | Balasooriya B A P I | 220054N | balasooriyabapi.22@uom.lk
+ | Dewasumithra M P O | 220112R |piumioshani@gmail.com|
+ | Dineshara M C | 220128V |chandupadineshara@gmail.com|
+ | Diunugala C H | 220143L |chamathdiunugala@gmail.com|
 
 
 
