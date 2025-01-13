@@ -56,7 +56,7 @@ This project involves the design and implementation of an **Analog Volume Expand
     <img src="images/PIctures/WhatsApp Image 2024-12-16 at 21.27.18_a69d4df1.jpg" alt="Image 2" width="38%" height="auto">
 </div>
 
- ## Group Members
+ ## 👥 Group Members
  | Name | Index Number |Email|
 |------|--------------|--------------|
  | Balasooriya B A P I | 220054N | balasooriyabapi.22@uom.lk
