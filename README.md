@@ -17,7 +17,7 @@ This project involves the design and implementation of an **Analog Volume Expand
 ## 🛠 System Design
 ### Functional Block Diagram
 
-<img src="images/screenshots/block%20diagram.png" width="700" height="auto" />
+<img src="images/screenshots/block%20diagram.png" width="800" height="auto" />
 
 ### Core Components
 - **Control Voltage Processor**: Processes the input signal to generate control voltages.
