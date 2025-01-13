@@ -35,7 +35,8 @@ This project involves the design and implementation of an **Analog Volume Expand
   - Efficient layout with minimal wiring.
   - Proper power-signal separation for reliability.
 
-![PCB Design](images/screenshots/pcb_design.png)
+
+<img src="images/screenshots/pcb_design.png" width="700" height="auto" />
 
 ### Enclosure Design
 - **3D-printed enclosure**:
