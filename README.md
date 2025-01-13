@@ -52,9 +52,13 @@ This project involves the design and implementation of an **Analog Volume Expand
 ### Final Product
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="images/screenshots/enclosure_design.jpg" alt="Image 1" width="40%" height="auto">
-    <img src="images/PIctures/Screenshot 2024-12-16 212225.png" alt="Image 2" width="46%" height="auto">
+    <img src="images/PIctures/WhatsApp Image 2024-12-16 at 21.26.22_342b829f.jpg" alt="Image 1" width="40%" height="auto">
+    <img src="images/PIctures/WhatsApp Image 2024-12-16 at 21.27.18_a69d4df1.jpg" alt="Image 2" width="46%" height="auto">
 </div>
+
+
+
+
 ---
 ![Solidworks](https://img.shields.io/badge/Solid_Works_-red)
 ![Altium](https://img.shields.io/badge/Altium_Designer_-%23A5915F?logo=altiumdesigner&logoColor=white)
