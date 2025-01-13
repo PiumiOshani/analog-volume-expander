@@ -52,8 +52,8 @@ This project involves the design and implementation of an **Analog Volume Expand
 ### Final Product
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="images/PIctures/WhatsApp Image 2024-12-16 at 21.26.22_342b829f.jpg" alt="Image 1" width="48%" height="auto">
-    <img src="images/PIctures/WhatsApp Image 2024-12-16 at 21.27.18_a69d4df1.jpg" alt="Image 2" width="37%" height="auto">
+    <img src="images/PIctures/WhatsApp Image 2024-12-16 at 21.26.22_342b829f.jpg" alt="Image 1" width="47%" height="auto">
+    <img src="images/PIctures/WhatsApp Image 2024-12-16 at 21.27.18_a69d4df1.jpg" alt="Image 2" width="38%" height="auto">
 </div>
 
 
